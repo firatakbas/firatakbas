@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, ben Fırat Akbaş</h1>
+<h3 align="center">Back-End Developer • Laravel & PHP Enthusiast</h3>
 
-<!--
-**firatakbas/firatakbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Laravel+Geliştiricisi;PHP+Sever;Back-End+Odaklı" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Hakkımda
+
+- 🔭 Şu anda üzerinde çalıştığım şey: **Anime/Film/Dizi topluluk platformu**
+- 🌱 Şu anda öğreniyorum: **Docker, SOLID, Clean Code, Repository Pattern**
+- 💬 Bana sorabileceğiniz şeyler: `Laravel`, `PHP`, `MySQL`
+- ⚡ Fun fact: Kod yazarken çay içmeden duramam 😄
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+
+---
+
+### 📈 GitHub İstatistikleri
+
+![Fırat'ın GitHub stats](https://github-readme-stats.vercel.app/api?username=firatakbas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firatakbas&layout=compact&theme=radical)
+
+---
+
+### 📫 Bana Ulaş
+
+- ✉️ Mail: firat@example.com
+- 💼 LinkedIn: [linkedin.com/in/firatakbas](https://linkedin.com/in/firatakbas)
+- 🌐 Web sitem: [firatakbas.dev](https://firatakbas.dev) *(örnek)*
+
+---
+
+> Profilini her zaman güncel tutmayı unutma. Yeni öğrendiğin teknolojileri ve projelerini ekledikçe geliştirmen seni daha profesyonel gösterecektir 🚀
