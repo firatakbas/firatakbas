@@ -36,7 +36,3 @@
 
 - ✉️ Mail: firaat.akbas@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/firatakbas](https://www.linkedin.com/in/f%C4%B1rat-akba%C5%9F-b964a31a5/)
-
----
-
-> Profilini her zaman güncel tutmayı unutma. Yeni öğrendiğin teknolojileri ve projelerini ekledikçe geliştirmen seni daha profesyonel gösterecektir 🚀
