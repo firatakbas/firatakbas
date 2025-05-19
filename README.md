@@ -9,10 +9,8 @@
 
 ### 💡 Hakkımda
 
-- 🔭 Şu anda üzerinde çalıştığım şey: **Anime/Film/Dizi topluluk platformu**
 - 🌱 Şu anda öğreniyorum: **Docker, SOLID, Clean Code, Repository Pattern**
 - 💬 Bana sorabileceğiniz şeyler: `Laravel`, `PHP`, `MySQL`
-- ⚡ Fun fact: Kod yazarken çay içmeden duramam 😄
 
 ---
 
@@ -36,9 +34,8 @@
 
 ### 📫 Bana Ulaş
 
-- ✉️ Mail: firat@example.com
-- 💼 LinkedIn: [linkedin.com/in/firatakbas](https://linkedin.com/in/firatakbas)
-- 🌐 Web sitem: [firatakbas.dev](https://firatakbas.dev) *(örnek)*
+- ✉️ Mail: firaat.akbas@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/firatakbas](https://www.linkedin.com/in/f%C4%B1rat-akba%C5%9F-b964a31a5/)
 
 ---
 
