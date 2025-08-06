@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Fırat Akbaş</h1>
-<h3 align="center">Back-End Developer • Laravel & PHP :heart</h3>
+<h3 align="center">Back-End Developer • Laravel & PHP :heart:</h3>
 
 ---
 
