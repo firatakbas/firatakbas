@@ -1,10 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Fırat Akbaş</h1>
 <h3 align="center">Back-End Developer • Laravel & PHP Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Laravel+Geliştiricisi;PHP+Sever;Back-End+Odaklı" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💡 Hakkımda
