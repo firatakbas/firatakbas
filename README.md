@@ -5,8 +5,7 @@
 
 ### 💡 Hakkımda
 
-- 🌱 Şu anda öğreniyorum: **Docker, SOLID, Clean Code, Repository Pattern**
-- 💬 Bana sorabileceğiniz şeyler: `Laravel`, `PHP`, `MySQL`
+- Yeni teknolojileri öğrenmeye istekli ve azimli bir geliştiriciyim. Laravel ile backend uygulamaları geliştiriyor, aynı zamanda kullanıcı odaklı frontend arayüzleri tasarlıyorum
 
 ---
 
@@ -31,4 +30,4 @@
 ### 📫 Bana Ulaş
 
 - ✉️ Mail: firaat.akbas@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/firatakbas](https://www.linkedin.com/in/f%C4%B1rat-akba%C5%9F-b964a31a5/)
+- 💼 LinkedIn: [linkedin.com/in/firatakbas](https://www.linkedin.com/in/firat-akbas)
